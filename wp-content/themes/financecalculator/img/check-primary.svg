@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="10px" viewBox="0 0 11 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Meteor-Learning-Widget-v1.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Step-2" transform="translate(-41.000000, -129.000000)" fill="#CE4A03" fill-rule="nonzero">
+            <g id="Progress" transform="translate(32.000000, 120.000000)">
+                <g id="Dot-Step-1">
+                    <path d="M18.8136631,9.24765739 L12.3736631,15.8376574 L10.6236631,13.8376574 C10.3060994,13.4455352 9.73078527,13.3850937 9.3386631,13.7026574 C8.94654093,14.0202211 8.88609937,14.5955352 9.2036631,14.9876574 L11.2736631,18.4976574 C11.4785306,18.8120734 11.8283924,19.0016871 12.2036631,19.0016871 C12.5789338,19.0016871 12.9287956,18.8120734 13.1336631,18.4976574 C13.4636631,18.0576574 19.6836631,10.2576574 19.6836631,10.2576574 C20.4436631,9.35765739 19.5136631,8.58765739 18.8136631,9.24765739 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

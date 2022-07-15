@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="10px" viewBox="0 0 16 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Angle Down</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Angle-Down" transform="translate(0.000000, -4.000000)">
+            <g>
+                <rect id="Rectangle" x="0" y="0" width="16" height="16"></rect>
+                <path d="M8.53114565,13.0935352 L15.7797216,5.7324935 C16.0734261,5.438789 16.0734261,4.9639067 15.7797216,4.6702022 L15.3360832,4.22650274 C15.0423787,3.93285926 14.5674354,3.93285926 14.2737919,4.22650274 L8,10.6127603 L1.72620812,4.22027838 C1.43256463,3.92657387 0.957621317,3.92657387 0.66391681,4.22027838 L0.22027838,4.66391681 C-0.0734261267,4.95762132 -0.0734261267,5.43256463 0.22027838,5.72620812 L7.46885435,13.0873108 C7.76255885,13.3809543 8.23744115,13.3809543 8.53114565,13.0935352 Z" id="" fill="#333333" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
